@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-10T13:50:17 IST" name="Suite" finished-at="2026-01-10T13:50:24 IST" duration-ms="6723">
+    <groups>
+    </groups>
+    <test started-at="2026-01-10T13:50:17 IST" name="Test" finished-at="2026-01-10T13:50:24 IST" duration-ms="6723">
+      <class name="Test.EnroolTest">
+        <test-method signature="Enroll()[pri:1, instance:Test.EnroolTest@15de0b3c]" started-at="2026-01-10T13:50:23 IST" name="Enroll" finished-at="2026-01-10T13:50:23 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enroll -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.EnroolTest@15de0b3c]" started-at="2026-01-10T13:50:23 IST" name="mthd" finished-at="2026-01-10T13:50:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.EnroolTest@15de0b3c]" started-at="2026-01-10T13:50:23 IST" name="mthd" finished-at="2026-01-10T13:50:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="ScreenShot()[pri:2, instance:Test.EnroolTest@15de0b3c]" started-at="2026-01-10T13:50:23 IST" name="ScreenShot" finished-at="2026-01-10T13:50:24 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+      </class> <!-- Test.EnroolTest -->
+      <class name="Test.LinkTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LinkTest@1fa121e2]" started-at="2026-01-10T13:50:17 IST" name="setup" finished-at="2026-01-10T13:50:19 IST" duration-ms="2530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.LinkTest@1fa121e2]" started-at="2026-01-10T13:50:19 IST" name="mthd" finished-at="2026-01-10T13:50:19 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="Link()[pri:1, instance:Test.LinkTest@1fa121e2]" started-at="2026-01-10T13:50:19 IST" name="Link" finished-at="2026-01-10T13:50:21 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Link -->
+      </class> <!-- Test.LinkTest -->
+      <class name="Test.NewTest">
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:21 IST" name="mthd" finished-at="2026-01-10T13:50:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="OpenNewLink()[pri:1, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:21 IST" name="OpenNewLink" finished-at="2026-01-10T13:50:22 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenNewLink -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:22 IST" name="mthd" finished-at="2026-01-10T13:50:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="NewTab()[pri:2, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:22 IST" name="NewTab" finished-at="2026-01-10T13:50:23 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewTab -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="mthd" finished-at="2026-01-10T13:50:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="Titleverification()[pri:3, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="Titleverification" finished-at="2026-01-10T13:50:23 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Titleverification -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="mthd" finished-at="2026-01-10T13:50:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="url()[pri:4, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="url" finished-at="2026-01-10T13:50:23 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="mthd" finished-at="2026-01-10T13:50:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="window()[pri:5, instance:Test.NewTest@1a677343]" started-at="2026-01-10T13:50:23 IST" name="window" finished-at="2026-01-10T13:50:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+      </class> <!-- Test.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
